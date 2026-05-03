@@ -9,7 +9,6 @@
 > **このリポジトリは [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) のフォークです。**
 
 </div>
-**🌟DAY2 の事前準備
 ## プロジェクトファイルのDLと解凍
 
 ## ⬇️ ダウンロード（Windows）
