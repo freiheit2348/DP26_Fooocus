@@ -13,7 +13,7 @@
 
 ### 1. ダウンロード先は **C:\Users\ユーザー名\ココに保存** に配置してください
 
-### **[📦 Fooocus for Windows — ここからダウンロード](https://github.com/lllyasviel/Fooocus/releases/download/release/Fooocus_win64_2-1-831.7z)**
+### **[📦 Fooocus for Windows — ここからダウンロード](https://github.com/lllyasviel/Fooocus/releases/download/v2.5.0/Fooocus_win64_2-5-0.7z)**
 
 （ファイルサイズ：約 1.8GB　形式：`.7z`）
 
