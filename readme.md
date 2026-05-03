@@ -7,8 +7,6 @@
 ## DAY2 Fooocus ローカル起動用リポジトリ
 
 </div>
-## プロジェクトファイルのDLと解凍
-
 ## ⬇️ ダウンロード（Windows）
 
 <div align="center">
