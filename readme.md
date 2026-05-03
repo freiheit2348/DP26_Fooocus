@@ -3,7 +3,8 @@
 
 </div>
 
-# BUNKA VF DP26 — DAY2 Fooocus ローカル起動用リポジトリ
+# BUNKA VF DP26
+# DAY2 Fooocus ローカル起動用リポジトリ
 
 > **このリポジトリは [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) のフォークです。**  
 
